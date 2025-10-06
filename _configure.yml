@@ -1,0 +1,9 @@
+title: "Uncommunist"
+description: "A project by Crabsquid936"
+baseurl: ""
+url: "https://crabsquid936.github.io/Anaroak"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+remote_theme: pages-themes/merlot@v0.2.0
